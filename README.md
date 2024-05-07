@@ -6,9 +6,11 @@ This repository contains a script designed to analyze customer reviews and extra
 To run this script, you'll need Python installed on your system along with a few additional packages. Use the following steps to set up your environment:
 
 **Clone the Repository**
-   ```bash
+
+```bash
    git clone <repository_url>
    cd <repository_name>
+```
 
 Features
 Dataset Loading: Loads a CSV file containing raw customer reviews.
